@@ -1,0 +1,7 @@
+Flask
+gdown
+keras
+numpy
+tensorflow
+Werkzeug
+Pillow

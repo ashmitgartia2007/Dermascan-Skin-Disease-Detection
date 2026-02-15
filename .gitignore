@@ -1,0 +1,21 @@
+
+# Virtual Environments
+.venv/
+.venv_tf/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+app.log
+
+# Temporary files
+*.tmp
